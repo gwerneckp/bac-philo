@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "fr-FR",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "bac-philo.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian", '0. Templates'],
     defaultDateType: "created",
     theme: {
