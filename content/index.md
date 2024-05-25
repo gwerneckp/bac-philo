@@ -1,3 +1,8 @@
+---
+title: Bac de Philo 
+---
+
+
 # Notions
 
 - [[1.1 Le Bonheur]]

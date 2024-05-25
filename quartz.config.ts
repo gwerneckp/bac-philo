@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Bac de Philosophie 2024",
+    pageTitle: "Bac de Philo",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
