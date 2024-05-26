@@ -17,6 +17,7 @@ Les 17 notions du programme de Philosophie en filière générale.
 - [[1.1 Le Bonheur]]
 - [[1.2 Conscience]]
 - [[1.3 Inconscience]]
+- [[1.4 L'État]]
 
 
 
@@ -36,6 +37,10 @@ Informations sur chaque philosophe, ou groupe, ainsi que leur principales thèse
 - [[3.11 Stoïciens]]
 - [[3.12 Platon]]
 - [[3.13 Pascal]]
+- [[3.14 Jean-Jacques Rousseau]]
+- [[3.15 John Locke]]
+- [[3.16 Hoppes]]
+- [[3.17 Murray Rothbard]]
 
 
 
