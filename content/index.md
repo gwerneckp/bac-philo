@@ -40,3 +40,7 @@ Informations sur chaque philosophe, ou groupe, ainsi que leur principales thèse
 
 
 # Sujets
+Certains sujets qui tombent souvent, avec une problématique et plan proposé, reliant aux references donnez sur les [[index#Notions|fiches de notion]].
+
+- [[2.1 Quelle est l'étendue de l'inconscient?]]
+- [[2.2 Quelles sont les relations entre la liberté et l'inconscient?]]
