@@ -12,7 +12,9 @@ J'ai décidé de publier ces fiches pour aider d'autres élèves. Notez cependan
 
 Les 17 notions du programme de Philosophie en filière générale.
 
-**Travail en cours, seulement 6/17 notions sont disponibles pour le moment.**
+> [!warning] **Attention**
+>
+> **Travail en cours, seulement 6/17 notions sont disponibles pour le moment.**
 
 - [[1.1 Le Bonheur]]
 - [[1.2 Conscience]]
