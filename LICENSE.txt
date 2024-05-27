@@ -1,7 +1,7 @@
-# License for Bac de Philo
+# License for bacdephilosophie.com
 
 ## CC BY-SA 4.0 License
-Bac de Philo by Gabriel Werneck is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+bacdephilosophie.com by Gabriel Werneck is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 [Link to full license text](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 

@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Bac de Philo",
+    pageTitle: "bacdephilosophie.com",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "fr-FR",
-    baseUrl: "bac-philo.vercel.app",
-    ignorePatterns: ["private", "templates", ".obsidian", '0. Templates'],
+    baseUrl: "bacdephilosophie.com",
+    ignorePatterns: ["private", "templates", ".obsidian", "0. Templates"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

@@ -19,7 +19,13 @@ export default ((opts?: Options) => {
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p> */}
         <p>
-          Gabriel Werneck Paiva
+          Voulez vous contribuer? Faites un pull request sur{" "}
+          <a href="https://github.com/gwerneckp/bac-philo">GitHub</a>
+        </p>
+        <p>
+          <a href="/">bacdephilosophie.com</a> par{" "}
+          <a href="https://instagram.com/gwerneckp">Gabriel Werneck</a> est licencié sous{" "}
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">CC BY-SA 4.0 </a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
