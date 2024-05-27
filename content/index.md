@@ -14,14 +14,15 @@ Les 17 notions du programme de Philosophie en filière générale.
 
 > [!warning] **Attention**
 >
-> **Travail en cours, seulement 6/17 notions sont disponibles pour le moment.**
+> **Travail en cours, seulement 7/17 notions sont disponibles pour le moment.**
 
 - [[1.1 Le Bonheur]]
 - [[1.2 Conscience]]
 - [[1.3 Inconscience]]
 - [[1.4 L'État]]
 - [[1.5 La Justice]]
-- [[1.6 La libérté]]
+- [[1.6 La Libérté]]
+- [[1.7 Le Devoir]]
 
 # Penseurs
 
