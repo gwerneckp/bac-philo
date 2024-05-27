@@ -20,12 +20,22 @@ export default ((opts?: Options) => {
         </p> */}
         <p>
           Voulez vous contribuer? Faites un pull request sur{" "}
-          <a href="https://github.com/gwerneckp/bac-philo">GitHub</a>
+          <a target="_blank" href="https://github.com/gwerneckp/bac-philo">
+            GitHub
+          </a>
         </p>
         <p>
-          <a href="/">bacdephilosophie.com</a> par{" "}
-          <a href="https://instagram.com/gwerneckp">Gabriel Werneck</a> est licencié sous{" "}
-          <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">CC BY-SA 4.0 </a>
+          <a target="_blank" href="/">
+            bacdephilosophie.com
+          </a>{" "}
+          par{" "}
+          <a target="_blank" href="https://instagram.com/gwerneckp">
+            Gabriel Werneck
+          </a>{" "}
+          est licencié sous{" "}
+          <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">
+            CC BY-SA 4.0{" "}
+          </a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
