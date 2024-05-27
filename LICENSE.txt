@@ -1,3 +1,15 @@
+# License for Bac de Philo
+
+## CC BY-SA 4.0 License
+Bac de Philo by Gabriel Werneck is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+[Link to full license text](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+
+# Quartz
+
+This website uses the SSG "Quartz" to generate its static files, which is licensed under the MIT license.
+
+## MIT License
 MIT License
 
 Copyright (c) 2021 jackyzha0
