@@ -2,7 +2,7 @@
 title: Bac de Philosophie
 ---
 
-Ce site contient des fiches de révision que j'ai créées pour préparer le B ac de Philosophie en utilisant Obsidian. Les notes sont interconnectées par des hyperliens et toutes indexées, ce qui permet de rechercher facilement une information via la barre de recherche. De plus, un graphe est disponible pour explorer les connexions entre les notes.
+Ce site contient des fiches de révision que j'ai créées pour préparer le Bac de Philosophie en utilisant Obsidian. Les notes sont interconnectées par des hyperliens et toutes indexées, ce qui permet de rechercher facilement une information via la barre de recherche. De plus, un graphe est disponible pour explorer les connexions entre les notes.
 
 J'ai décidé de publier ces fiches pour aider d'autres élèves. Notez cependant qu'il s'agit de notes prises par un élève, rédigées de manière à favoriser ma propre compréhension.
 
@@ -14,7 +14,7 @@ Les 17 notions du programme de Philosophie en filière générale.
 
 > [!warning] **Attention**
 >
-> **Travail en cours, seulement 7/17 notions sont disponibles pour le moment.**
+> **Travail en cours, seulement 8/17 notions sont disponibles pour le moment.**
 
 - [[1.1 Le Bonheur]]
 - [[1.2 Conscience]]
@@ -23,6 +23,7 @@ Les 17 notions du programme de Philosophie en filière générale.
 - [[1.5 La Justice]]
 - [[1.6 La Libérté]]
 - [[1.7 Le Devoir]]
+- [[1.8 Le Travail]]
 
 # Penseurs
 
@@ -46,6 +47,10 @@ Informations sur chaque philosophe, ou groupe, ainsi que leur principales thèse
 - [[3.16 Hobbes]]
 - [[3.17 Murray Rothbard]]
 - [[3.18 Leo Strauss]]
+- [[3.19 Spinoza]]
+- [[3.20 Jeremy Bentham]]
+- [[3.21 Hans Jonas]]
+- [[3.22 Hannah Arendt]]
 
 # Sujets
 
