@@ -14,7 +14,7 @@ Les 17 notions du programme de Philosophie en filière générale.
 
 > [!warning] **Attention**
 >
-> **Travail en cours, seulement 8/17 notions sont disponibles pour le moment.**
+> **Travail en cours, seulement 9/17 notions sont disponibles pour le moment.**
 
 - [[1.1 Le Bonheur]]
 - [[1.2 Conscience]]
@@ -24,6 +24,7 @@ Les 17 notions du programme de Philosophie en filière générale.
 - [[1.6 La Libérté]]
 - [[1.7 Le Devoir]]
 - [[1.8 Le Travail]]
+- [[1.9 La Technique]]
 - [[1.15 L'Art]]
 
 # Penseurs
@@ -52,6 +53,9 @@ Informations sur chaque philosophe, ou groupe, ainsi que leur principales thèse
 - [[3.20 Jeremy Bentham]]
 - [[3.21 Hans Jonas]]
 - [[3.22 Hannah Arendt]]
+- [[3.23 Henri Bergson]]
+- [[3.24 Hegel]]
+- [[3.25 Stuart]]
 
 # Sujets
 
