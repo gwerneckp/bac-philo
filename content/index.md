@@ -25,6 +25,7 @@ Les 17 notions du programme de Philosophie en filière générale.
 - [[1.7 Le Devoir]]
 - [[1.8 Le Travail]]
 - [[1.9 La Technique]]
+- [[1.13 Le Language]]
 - [[1.15 L'Art]]
 
 # Penseurs
