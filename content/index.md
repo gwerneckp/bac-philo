@@ -14,7 +14,7 @@ Les 17 notions du programme de Philosophie en filière générale.
 
 > [!warning] **Attention**
 >
-> **Travail en cours, seulement 9/17 notions sont disponibles pour le moment.**
+> **Travail en cours, seulement 12/17 notions sont disponibles pour le moment.**
 
 - [[1.1 Le Bonheur]]
 - [[1.2 Conscience]]
@@ -25,8 +25,10 @@ Les 17 notions du programme de Philosophie en filière générale.
 - [[1.7 Le Devoir]]
 - [[1.8 Le Travail]]
 - [[1.9 La Technique]]
-- [[1.13 Le Language]]
-- [[1.15 L'Art]]
+- [[1.11 Le Temps]]
+- [[1.12 La Science]]
+- [[1.17 Le Language]]
+- [[1.13 L'Art]]
 
 # Penseurs
 
@@ -64,3 +66,4 @@ Certains sujets qui tombent souvent, avec une problématique et plan proposé, r
 
 - [[2.1 Quelle est l'étendue de l'inconscient?]]
 - [[2.2 Quelles sont les relations entre la liberté et l'inconscient?]]
+- [[2.3 Suffit-il de communiquer pour comprendre autrui]]
