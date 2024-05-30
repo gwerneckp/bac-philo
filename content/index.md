@@ -2,7 +2,9 @@
 title: Bac de Philosophie
 ---
 
-Ce site contient des fiches de révision que j'ai créées pour préparer le Bac de Philosophie en utilisant Obsidian. Les notes sont interconnectées par des hyperliens et toutes indexées, ce qui permet de rechercher facilement une information via la barre de recherche. De plus, un graphe est disponible pour explorer les connexions entre les notes.
+Fiches de révisions pour le Bac de Philosophie. Toutes les notions du programme de Philosophie en filière générale, des penseurs et des sujets courants.
+
+Les notes sont interconnectées par des hyperliens et toutes indexées, ce qui permet de rechercher facilement une information via la barre de recherche. De plus, un graphe est disponible pour explorer les connexions entre les notes.
 
 J'ai décidé de publier ces fiches pour aider d'autres élèves. Notez cependant qu'il s'agit de notes prises par un élève, rédigées de manière à favoriser ma propre compréhension.
 
