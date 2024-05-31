@@ -27,6 +27,7 @@ Les 17 notions du programme de Philosophie en filière générale.
 - [[1.7 Le Devoir]]
 - [[1.8 Le Travail]]
 - [[1.9 La Technique]]
+- [[1.10 La Nature]]
 - [[1.11 Le Temps]]
 - [[1.12 La Science]]
 - [[1.13 L'Art]]
@@ -68,6 +69,8 @@ Informations sur chaque philosophe, ou groupe, ainsi que leur principales thèse
 - [[3.29 Karl Popper]]
 - [[3.30 Francis Bacon]]
 - [[3.31 Durkheim]]
+- [[3.32 Alain]]
+- [[3.33 Voltaire]]
 
 # Sujets
 
