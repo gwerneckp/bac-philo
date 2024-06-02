@@ -16,7 +16,7 @@ Les 17 notions du programme de Philosophie en filière générale.
 
 > [!warning] **Attention**
 >
-> **Travail en cours, seulement 15/17 notions sont disponibles pour le moment.**
+> **Travail en cours, seulement 16/17 notions sont disponibles pour le moment.**
 
 - [[1.1 Le Bonheur]]
 - [[1.2 Conscience]]
@@ -32,6 +32,8 @@ Les 17 notions du programme de Philosophie en filière générale.
 - [[1.12 La Science]]
 - [[1.13 L'Art]]
 - [[1.14 La Religion]]
+- [[1.15 La Vérité]]
+- [[1.16 La Raison]]
 - [[1.17 Le Language]]
 
 # Penseurs
@@ -71,6 +73,8 @@ Informations sur chaque philosophe, ou groupe, ainsi que leur principales thèse
 - [[3.31 Durkheim]]
 - [[3.32 Alain]]
 - [[3.33 Voltaire]]
+- [[3.34 Mark Frisch]]
+- [[3.35 Protagoras]]
 
 # Sujets
 
