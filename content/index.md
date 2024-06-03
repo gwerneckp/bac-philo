@@ -14,15 +14,15 @@ J'ai décidé de publier ces fiches pour aider d'autres élèves. Notez cependan
 
 Les 17 notions du programme de Philosophie en filière générale.
 
-- [[1.1 Le Bonheur]]
-- [[1.2 Conscience]]
-- [[1.3 Inconscience]]
-- [[1.4 L'État]]
-- [[1.5 La Justice]]
-- [[1.6 La Libérté]]
-- [[1.7 Le Devoir]]
-- [[1.8 Le Travail]]
-- [[1.9 La Technique]]
+- [[1.01 Le Bonheur]]
+- [[1.02 Conscience]]
+- [[1.03 Inconscience]]
+- [[1.04 L'État]]
+- [[1.05 La Justice]]
+- [[1.06 La Libérté]]
+- [[1.07 Le Devoir]]
+- [[1.08 Le Travail]]
+- [[1.09 La Technique]]
 - [[1.10 La Nature]]
 - [[1.11 Le Temps]]
 - [[1.12 La Science]]
@@ -36,15 +36,15 @@ Les 17 notions du programme de Philosophie en filière générale.
 
 Informations sur chaque philosophe, ou groupe, ainsi que leur principales thèses.
 
-- [[3.1 Freud]]
-- [[3.2 Nietzsche]]
-- [[3.3 Leibniz]]
-- [[3.4 Sartre]]
-- [[3.5 Descartes]]
-- [[3.6 Emmanuel Kant]]
-- [[3.7 Karl Marx]]
-- [[3.8 Aristote]]
-- [[3.9 Schopenhauer]]
+- [[3.01 Freud]]
+- [[3.02 Nietzsche]]
+- [[3.03 Leibniz]]
+- [[3.04 Sartre]]
+- [[3.05 Descartes]]
+- [[3.06 Emmanuel Kant]]
+- [[3.07 Karl Marx]]
+- [[3.08 Aristote]]
+- [[3.09 Schopenhauer]]
 - [[3.10 Épicure]]
 - [[3.11 Stoïciens]]
 - [[3.12 Platon]]
@@ -76,6 +76,6 @@ Informations sur chaque philosophe, ou groupe, ainsi que leur principales thèse
 
 Certains sujets qui tombent souvent, avec une problématique et plan proposé, reliant aux references donnez sur les [[index#Notions|fiches de notion]].
 
-- [[2.1 Quelle est l'étendue de l'inconscient?]]
-- [[2.2 Quelles sont les relations entre la liberté et l'inconscient?]]
-- [[2.3 Suffit-il de communiquer pour comprendre autrui]]
+- [[2.01 Quelle est l'étendue de l'inconscient?]]
+- [[2.02 Quelles sont les relations entre la liberté et l'inconscient?]]
+- [[2.03 Suffit-il de communiquer pour comprendre autrui]]
